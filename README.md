@@ -6,13 +6,14 @@ If you've never used Markdown, here are some tips (edit this file [or view "raw"
 
 ### Size
 #### Size
-##### Etc.
+##### Size.
 
 Here is a **bold** word.
-*italic*
+
+This is *italic*
 
 * bullet 1
 * two
 * 3
 
-> blockquote
+> This here is a blockquote
