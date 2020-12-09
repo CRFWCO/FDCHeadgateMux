@@ -2,9 +2,8 @@
 
 Here we can describe this site/MUX and/or add additional information.
 
-If you've never used Markdown, here are some tips (edit this file to see how I'm formatting).
+If you've never used Markdown, here are some tips (edit this file [or view "raw"] to see how I'm formatting).
 
-## Size
 ### Size
 #### Size
 ##### Etc.
