@@ -6095,4 +6095,15 @@ TD {DD-MM-YYYY}   Reader date
 TH {HH:MM:SS}     Reader time
 TL {ant}{lev}     Test tag level
 H or ?            Display list of all commands
-A0> 
+A0> MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 11:36:02
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 11:36:02
+MESSAGE: Test aborted due to system activity
