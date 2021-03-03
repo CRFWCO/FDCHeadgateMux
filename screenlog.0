@@ -60,3 +60,758 @@ A0 A2 3E7.0000001DA0 02-03-2021 16:36:04
 MESSAGE: Test Tag Fired on antenna 3
 MESSAGE: Test Tag Found
 A0 A3 3E7.0000001DA0 02-03-2021 16:36:04
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 17:06:04
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 02-03-2021 17:36:04
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 17:36:04
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 17:36:04
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     14 %  15 %  16 %  12 %  11 %  17 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 18:06:05
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 18:06:05
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 18:06:05
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 02-03-2021 18:36:05
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 02-03-2021 18:36:05
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 18:36:05
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 18:36:05
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 19:06:05
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 19:36:05
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 02-03-2021 19:36:05
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 19:36:05
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 19:36:05
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 20:06:05
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 20:06:05
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 02-03-2021 20:06:05
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 02-03-2021 20:36:06
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 20:36:06
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     18 %  11 %  16 %  13 %  14 %  15 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 21:06:06
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 02-03-2021 21:06:06
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 02-03-2021 21:36:06
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 21:36:06
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 02-03-2021 21:36:06
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 02-03-2021 22:06:06
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 22:06:06
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 02-03-2021 22:36:06
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+A0 A2 3E7.0000001DA0 02-03-2021 22:36:06
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 22:36:06
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 22:36:06
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 02-03-2021 23:06:06
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 23:06:06
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 23:06:06
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+A0 A2 3E7.0000001DA0 02-03-2021 23:36:07
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 02-03-2021 23:36:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 02-03-2021 23:36:07
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 02-03-2021 23:36:07
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     17 %  15 %  15 %  11 %  15 %  16 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 03-03-2021 00:06:07
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 00:06:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 03-03-2021 00:06:07
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 00:06:07
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 03-03-2021 00:36:07
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 00:36:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 00:36:07
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 01:06:07
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 01:06:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 01:06:07
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 01:36:07
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 01:36:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 01:36:07
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 02:06:08
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 02:06:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+A0 A2 3E7.0000001DA0 03-03-2021 02:36:08
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 02:36:08
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 02:36:08
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 02:36:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     16 %  16 %  14 %  14 %  17 %  16 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 03-03-2021 03:06:08
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 03-03-2021 03:36:08
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 03:36:08
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 03:36:08
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 03:36:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 03-03-2021 04:06:08
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 03-03-2021 04:06:08
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 04:06:08
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 04:06:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 04:36:08
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 04:36:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 03-03-2021 05:06:09
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 05:06:09
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 05:06:09
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 05:06:09
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 05:36:09
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 05:36:09
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 05:36:09
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     17 %  15 %  13 %  12 %  14 %  17 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 06:06:09
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 06:06:09
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 06:06:09
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 06:36:09
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 06:36:09
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 06:36:09
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 07:06:09
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 07:06:09
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 07:06:09
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 07:36:09
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 08:06:10
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 03-03-2021 08:06:10
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 08:06:10
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 03-03-2021 08:36:10
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 08:36:10
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 08:36:10
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 08:36:10
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+?
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> rfs
+Unknown Command! (H for help)
+A0> drs
+$MUX1230,2,1,A0,2,0030,1,1,1,1,30,1440,180,110,1000,25,30,100,0,612,217,99,595,48F,0,606,76F,0,584,786,0,602,3BD,0,585,1CC,0,1,2,3,4,5,6,0,0,0,0,0,0,18,145,0,62,3347,1,1,1,1,1,1,193,349,427,271,424,176,2,-1,2,-1,2,-1,17,14,13,13,11,17,5,5,5,5,5,5,TAG,14,03-03-2021 09:02:28
+A0> DRs
+$MUX1230,2,1,A0,2,0030,1,1,1,1,30,1440,180,110,1000,25,30,100,0,612,217,99,595,48F,0,606,76F,0,584,786,0,602,3BD,0,585,1CC,0,1,2,3,4,5,6,0,0,0,0,0,0,18,145,0,62,3347,1,1,1,1,1,1,193,350,427,272,424,174,1,0,2,0,2,0,17,14,13,13,11,17,5,5,5,5,5,5,TAG,14,03-03-2021 09:02:36
+A0> DR|s
+MESSAGE: Invalid argument.
+A0> DR|S
+MESSAGE: Invalid argument.
+A0> ?
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> DR{S}
+MESSAGE: Invalid argument.
+A0> DR S
+MESSAGE: Invalid argument.
+A0> DR_S
+MESSAGE: Invalid argument.
+A0> DR s
+MESSAGE: Invalid argument.
+A0> Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     17 %  16 %  13 %  14 %  12 %  17 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+DRS
+$MUX1230,2,1,A0,2,0030,1,1,1,1,30,1440,180,110,1000,25,30,100,0,612,216,99,595,48F,0,606,76E,0,584,786,0,602,3BD,0,585,1CC,0,1,2,3,4,5,6,0,0,0,0,0,0,18,146,0,62,3347,1,1,1,1,1,1,193,350,427,272,424,174,2,0,3,-1,2,1,18,17,13,16,13,18,5,5,5,5,5,5,TAG,14,03-03-2021 09:04:29
+A0> RUD
+MESSAGE: Bad #. Acceptable range is 1 to 1440 min(s).
+A0> RU
+MESSAGE: Invalid argument.
+A0> MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 03-03-2021 09:06:10
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+DRS
+$MUX1230,2,1,A0,2,0030,1,1,1,1,30,1440,180,110,1000,25,30,100,0,612,214,99,595,48F,0,606,76E,0,584,786,0,602,3BD,0,585,1CC,0,1,2,3,4,5,6,0,0,0,0,0,0,18,146,0,62,3348,1,1,1,1,1,1,193,349,427,272,424,174,2,1,3,-1,2,1,16,17,14,15,14,18,5,5,5,5,5,5,TAG,14,03-03-2021 09:06:42
+A0> DRD
+MESSAGE: Report delay set to 0 minute(s).
+A0> drd1440
+MESSAGE: Report delay set to 1440 minute(s).
+A0> $MUX1230,2,1,A0,2,0030,1,1,1,1,30,1440,180,110,1000,25,30,100,0,612,213,99,595,48F,0,606,76E,0,584,786,0,602,3BD,0,585,1CC,0,1,2,3,4,5,6,0,0,0,0,0,0,18,146,0,62,3348,1,1,1,1,1,1,193,350,427,270,424,174,-1,2,3,-1,3,0,17,16,12,15,12,18,5,5,5,5,5,5,TAG,14,03-03-2021 09:07:55
+dtd180
+MESSAGE: Test tag timer set to 180 minute(s).
+A0> MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 03-03-2021 09:08:43
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 03-03-2021 09:08:44
+rud30
+MESSAGE: Unique mode delay set to 30 min(s).
+A0> ?
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> nrd180
+MESSAGE: Noise Report delay set to 180 minute(s).
+A0> Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     15 %  16 %  17 %  13 %  16 %  18 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+nrd180
+MESSAGE: Noise Report delay set to 180 minute(s).
+A0> Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     15 %  17 %  15 %  15 %  16 %  18 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+?
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> drd
+MESSAGE: Report delay set to 0 minute(s).
+A0> drd1440
+MESSAGE: Report delay set to 1440 minute(s).
+A0> $MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,612,203,99,595,46D,0,606,72F,0,584,784,0,602,3A7,0,585,1BF,0,1,2,3,4,5,6,0,0,0,0,0,0,30,146,0,62,3350,1,1,1,1,1,1,192,341,413,268,421,173,1,3,3,3,1,5,17,16,18,13,16,17,5,5,5,5,5,5,14,03-03-2021 11:36:26
+drs s
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,25,30,100,0,612,203,99,595,46D,0,606,72F,0,584,784,0,602,3A7,0,585,1BF,0,1,2,3,4,5,6,0,0,0,0,0,0,28,145,0,62,3350,1,1,1,1,1,1,193,341,413,268,420,174,1,4,4,3,1,-3,18,15,17,12,17,17,5,5,5,5,5,5,14,03-03-2021 11:36:37
+A0> nrs 
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     18 %  15 %  16 %  12 %  15 %  18 %
+Peak:        25 %  25 %  25 %  25 %  25 %  25 %
+A0> +[3~[D[3~?
+Unknown Command! (H for help)
+A0> h
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> ng100
+MESSAGE: Noise gain set to 100%.
+A0> PROBLEM: Ant1 noise level
+PROBLEM: Ant6 noise level
+PROBLEM: Ant3 noise level
+PROBLEM: Ant4 noise level
+PROBLEM: Ant2 noise level
+PROBLEM: Ant5 noise level
+nt100
+MESSAGE: Bad #. Acceptable range is 1 to 99%
+A0> nt99
+MESSAGE: Noise alarm threshold set to 99%.
+A0> ng98
+MESSAGE: Noise gain set to 98%.
+A0> MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 03-03-2021 12:08:44
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 03-03-2021 12:08:44
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     74 %  77 %  69 %  69 %  75 %  75 %
+Peak:       100 %  98 %  98 %  98 %  99 % 100 %
