@@ -32347,3 +32347,1521 @@ MESSAGE: Test Tag Found
 A0 A5 3E7.0000001DA0 20-04-2021 12:15:58
 MESSAGE: Test Tag Fired on antenna 6
 PROBLEM: Test Tag Failed
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1A1,99,595,42F,0,606,709,0,584,7A3,0,602,39C,0,585,1A0,0,1,2,3,4,5,6,0,0,0,0,0,0,36,145,0,82,4412,1,1,1,1,1,1,173,293,376,259,414,166,0,-1,1,2,1,-6,78,41,35,60,29,85,7,7,7,7,7,7,TAG,14,20-04-2021 14:54:43
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  45 %  31 %  57 %  31 %  87 %
+Peak:        99 %  98 %  98 %  99 %  98 %  98 %
+rfs
+Unknown Command! (H for help)
+A0> drs
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1A1,99,595,42F,0,606,709,0,584,7A3,0,602,39C,0,585,1A0,0,1,2,3,4,5,6,0,0,0,0,0,0,36,145,0,82,4412,1,1,1,1,1,1,173,293,375,259,415,166,-1,-1,1,2,2,-5,70,46,33,51,44,80,7,7,7,7,7,7,TAG,14,20-04-2021 15:06:20
+A0> MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 20-04-2021 15:15:59
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 20-04-2021 15:15:59
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 20-04-2021 15:15:59
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     69 %  50 %  21 %  34 %  32 %  78 %
+Peak:        99 %  98 %  98 %  99 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 20-04-2021 18:16:00
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 20-04-2021 18:16:00
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 20-04-2021 18:16:00
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     75 %  45 %  30 %  40 %  35 %  84 %
+Peak:        99 %  98 %  98 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 20-04-2021 21:16:01
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 20-04-2021 21:16:01
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 20-04-2021 21:16:01
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  53 %  22 %  34 %  38 %  85 %
+Peak:        98 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 00:16:02
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 21-04-2021 00:16:02
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     65 %  36 %  19 %  26 %  28 %  77 %
+Peak:        98 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 03:16:03
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 21-04-2021 03:16:03
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 03:16:03
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  48 %  28 %  43 %  40 %  87 %
+Peak:        98 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 06:16:04
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 21-04-2021 06:16:04
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 06:16:04
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     74 %  50 %  33 %  25 %  33 %  86 %
+Peak:        98 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 21-04-2021 09:16:05
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 09:16:05
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 09:16:05
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     72 %  43 %  28 %  26 %  26 %  80 %
+Peak:        99 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 12:16:06
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 21-04-2021 12:16:06
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 12:16:06
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,191,99,595,417,0,606,6E1,0,584,79A,0,602,38D,0,585,19B,0,1,2,3,4,5,6,0,0,0,0,0,0,40,145,0,82,4435,1,1,1,1,1,1,165,287,367,256,405,163,2,0,3,1,1,0,69,48,40,35,34,79,7,7,7,7,7,7,14,21-04-2021 14:54:52
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  45 %  38 %  33 %  35 %  81 %
+Peak:       100 %  98 %  99 %  99 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 15:16:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 21-04-2021 15:16:07
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 15:16:07
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     83 %  56 %  38 %  31 %  55 %  87 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 18:16:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 18:16:08
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 21-04-2021 18:16:08
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     78 %  51 %  23 %  33 %  28 %  83 %
+Peak:        99 %  99 %  99 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 21-04-2021 21:16:09
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 21-04-2021 21:16:09
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 21-04-2021 21:16:09
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 21-04-2021 21:16:09
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     66 %  49 %  23 %  33 %  31 %  83 %
+Peak:        98 %  99 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 22-04-2021 00:16:10
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 22-04-2021 00:16:10
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 22-04-2021 00:16:10
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 22-04-2021 00:16:10
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     66 %  53 %  22 %  41 %  45 %  73 %
+Peak:        98 %  98 %  98 %  98 %  99 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 22-04-2021 03:16:11
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 22-04-2021 03:16:11
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 22-04-2021 03:16:11
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 22-04-2021 03:16:11
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  53 %  19 %  33 %  41 %  74 %
+Peak:        98 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 22-04-2021 06:16:12
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 22-04-2021 06:16:12
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 22-04-2021 06:16:12
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 22-04-2021 06:16:12
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: MUX1230 2.1
+MESSAGE: Reader reset!
+MESSAGE: Reader is in scan mode
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     67 %  65 %  42 %  45 %  41 %  84 %
+Peak:       100 %  98 %  99 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 22-04-2021 12:31:58
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 22-04-2021 12:31:58
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 22-04-2021 12:31:58
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     75 %  49 %  25 %  31 %  41 %  84 %
+Peak:        99 %  99 %  98 %  99 %  99 % 100 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 22-04-2021 15:31:59
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     84 %  43 %  52 %  50 %  59 %  85 %
+Peak:       100 %  99 % 100 % 100 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 22-04-2021 18:32:00
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 22-04-2021 18:32:00
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 22-04-2021 18:32:00
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  42 %  38 %  35 %  46 %  79 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 22-04-2021 21:32:01
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 22-04-2021 21:32:01
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+A0 A4 3E7.0000001DA0 22-04-2021 21:32:01
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 22-04-2021 21:32:01
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     75 %  49 %  41 %  42 %  38 %  79 %
+Peak:        98 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 23-04-2021 00:32:02
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 00:32:02
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 23-04-2021 00:32:02
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 23-04-2021 00:32:02
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  46 %  39 %  46 %  50 %  85 %
+Peak:        98 %  98 %  98 %  98 %  99 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+A0 A2 3E7.0000001DA0 23-04-2021 03:32:03
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 03:32:03
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 23-04-2021 03:32:03
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 23-04-2021 03:32:03
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     77 %  56 %  41 %  42 %  46 %  85 %
+Peak:        99 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 06:32:04
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1C5,99,595,453,0,606,73F,0,584,7AF,0,602,3BF,0,585,1A9,0,1,2,3,4,5,6,0,0,0,0,0,0,34,145,0,83,4477,1,1,1,1,1,1,177,300,391,266,445,168,2,3,4,3,3,0,72,52,46,50,34,85,7,7,7,7,7,7,9060,23-04-2021 09:32:02
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     72 %  52 %  46 %  50 %  34 %  85 %
+Peak:        99 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 23-04-2021 09:32:05
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 09:32:05
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     72 %  55 %  37 %  48 %  47 %  81 %
+Peak:        99 %  99 %  99 %  99 %  99 % 100 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 23-04-2021 12:32:06
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 23-04-2021 12:32:06
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 12:32:06
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 23-04-2021 12:32:06
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     67 %  52 %  34 %  33 %  29 %  75 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 23-04-2021 15:32:07
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 23-04-2021 15:32:07
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  54 %  43 %  34 %  38 %  91 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 23-04-2021 18:32:08
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 23-04-2021 18:32:08
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 18:32:08
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     70 %  51 %  31 %  36 %  33 %  81 %
+Peak:        99 %  98 %  98 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 23-04-2021 21:32:10
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 23-04-2021 21:32:10
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 23-04-2021 21:32:10
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 23-04-2021 21:32:10
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     75 %  52 %  27 %  37 %  39 %  87 %
+Peak:        98 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+A0 A2 3E7.0000001DA0 24-04-2021 00:32:11
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 00:32:11
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 24-04-2021 00:32:11
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 24-04-2021 00:32:11
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  53 %  28 %  39 %  34 %  81 %
+Peak:        99 %  98 %  99 %  99 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 03:32:12
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 24-04-2021 03:32:12
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 24-04-2021 03:32:12
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     68 %  56 %  40 %  39 %  34 %  83 %
+Peak:        99 %  99 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 24-04-2021 06:32:13
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 24-04-2021 06:32:13
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 06:32:13
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 24-04-2021 06:32:13
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1DF,99,595,481,0,606,760,0,584,7A8,0,602,3D0,0,585,1B3,0,1,2,3,4,5,6,0,0,0,0,0,0,22,145,0,84,4503,1,1,1,1,1,1,187,313,399,272,451,168,-2,3,2,-1,1,1,77,63,45,53,53,84,7,7,7,7,7,7,9060,24-04-2021 09:32:11
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     77 %  63 %  45 %  53 %  53 %  84 %
+Peak:        99 %  98 %  98 %  98 %  99 %  98 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 24-04-2021 09:32:14
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 09:32:14
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 24-04-2021 09:32:14
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     70 %  65 %  42 %  42 %  40 %  88 %
+Peak:        98 %  98 %  98 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     88 %  53 %  42 %  57 %  52 %  82 %
+Peak:        99 %  98 %  99 % 100 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 15:32:16
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 24-04-2021 15:32:16
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 24-04-2021 15:32:16
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  51 %  40 %  37 %  43 %  77 %
+Peak:        99 %  98 %  99 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 24-04-2021 18:32:17
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 18:32:17
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 24-04-2021 18:32:17
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 24-04-2021 18:32:17
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  52 %  39 %  41 %  35 %  83 %
+Peak:        98 %  98 %  98 %  99 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 24-04-2021 21:32:18
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 24-04-2021 21:32:18
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 24-04-2021 21:32:18
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 24-04-2021 21:32:18
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     78 %  43 %  30 %  38 %  42 %  80 %
+Peak:        99 %  98 %  99 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 25-04-2021 00:32:19
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 25-04-2021 00:32:19
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     74 %  62 %  48 %  52 %  44 %  83 %
+Peak:        98 %  99 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 25-04-2021 03:32:20
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 25-04-2021 03:32:20
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 25-04-2021 03:32:20
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 25-04-2021 03:32:20
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     83 %  45 %  36 %  49 %  43 %  73 %
+Peak:        98 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 25-04-2021 06:32:21
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 25-04-2021 06:32:21
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1C9,99,595,45C,0,606,74A,0,584,7AC,0,602,3C3,0,585,1A7,0,1,2,3,4,5,6,0,0,0,0,0,0,30,146,0,84,4525,1,1,1,1,1,1,180,305,398,268,451,169,2,4,4,-1,1,-3,72,49,36,39,38,83,7,7,7,7,7,7,TAG,9060,25-04-2021 09:32:19
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     72 %  49 %  36 %  39 %  38 %  83 %
+Peak:        99 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 25-04-2021 09:32:22
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 25-04-2021 09:32:22
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 25-04-2021 09:32:22
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  50 %  40 %  53 %  54 %  82 %
+Peak:        99 %  99 % 100 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 25-04-2021 12:32:23
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 25-04-2021 12:32:23
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 25-04-2021 12:32:23
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 25-04-2021 12:32:23
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     74 %  52 %  35 %  45 %  43 %  83 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+A0 A5 3E7.0000001DA0 25-04-2021 15:32:25
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  59 %  57 %  44 %  29 %  88 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 25-04-2021 18:32:25
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 25-04-2021 18:32:25
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 25-04-2021 18:32:25
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  47 %  45 %  44 %  58 %  81 %
+Peak:        99 %  98 %  99 %  99 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 25-04-2021 21:32:27
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 25-04-2021 21:32:27
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 25-04-2021 21:32:27
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  55 %  46 %  56 %  51 %  85 %
+Peak:        99 %  99 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 26-04-2021 00:32:28
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 26-04-2021 00:32:28
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 00:32:28
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     72 %  45 %  31 %  38 %  46 %  84 %
+Peak:        98 %  98 %  99 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 03:32:29
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 26-04-2021 03:32:29
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 26-04-2021 03:32:29
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     66 %  40 %  34 %  38 %  38 %  83 %
+Peak:        99 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 26-04-2021 06:32:30
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 06:32:30
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 26-04-2021 06:32:30
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1C9,99,595,459,0,606,745,0,584,7AE,0,602,3C3,0,585,1A9,0,1,2,3,4,5,6,0,0,0,0,0,0,32,145,0,85,4548,1,1,1,1,1,1,182,303,396,269,453,169,3,3,4,0,3,0,64,63,38,38,53,90,7,7,7,7,7,7,TAG,9060,26-04-2021 09:32:28
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     64 %  63 %  38 %  38 %  53 %  90 %
+Peak:        99 %  99 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 26-04-2021 09:32:31
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 26-04-2021 09:32:31
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+A0 A2 3E7.0000001DA0 26-04-2021 09:32:31
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 09:32:31
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     73 %  65 %  45 %  58 %  33 %  87 %
+Peak:        99 %  99 %  98 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 26-04-2021 12:32:32
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 26-04-2021 12:32:32
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 26-04-2021 12:32:32
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 12:32:32
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  48 %  66 %  56 %  62 %  83 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 26-04-2021 15:32:33
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 15:32:33
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 26-04-2021 15:32:33
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 26-04-2021 15:32:33
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     80 %  43 %  47 %  49 %  55 %  78 %
+Peak:       100 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 26-04-2021 18:32:34
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 26-04-2021 18:32:34
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 26-04-2021 18:32:34
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     74 %  61 %  47 %  57 %  49 %  80 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 26-04-2021 21:32:35
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 26-04-2021 21:32:35
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 26-04-2021 21:32:35
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 26-04-2021 21:32:35
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  52 %  49 %  49 %  52 %  82 %
+Peak:        99 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 27-04-2021 00:32:35
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+A0 A5 3E7.0000001DA0 27-04-2021 00:32:36
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 27-04-2021 00:32:36
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     75 %  54 %  41 %  46 %  51 %  83 %
+Peak:        98 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 27-04-2021 03:32:37
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 4
+A0 A3 3E7.0000001DA0 27-04-2021 03:32:37
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 27-04-2021 03:32:37
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 27-04-2021 03:32:37
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     74 %  56 %  51 %  43 %  45 %  82 %
+Peak:        98 %  98 %  98 %  99 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 27-04-2021 06:32:38
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 27-04-2021 06:32:38
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 27-04-2021 06:32:38
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 27-04-2021 06:32:38
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1CA,99,595,456,0,606,742,0,584,7B0,0,602,3C0,0,585,1A9,0,1,2,3,4,5,6,0,0,0,0,0,0,34,146,0,85,4578,1,1,1,1,1,1,183,302,392,267,449,169,2,4,4,3,4,-1,79,58,36,45,46,79,7,7,7,7,7,7,9060,27-04-2021 09:32:36
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  58 %  36 %  45 %  46 %  79 %
+Peak:        99 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 27-04-2021 09:32:39
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 27-04-2021 09:32:39
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 27-04-2021 09:32:39
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  45 %  53 %  50 %  47 %  78 %
+Peak:        99 %  99 %  99 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+A0 A2 3E7.0000001DA0 27-04-2021 12:32:40
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 27-04-2021 12:32:40
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 27-04-2021 12:32:40
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+rfs
+Unknown Command! (H for help)
+A0> drs
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,18C,99,595,417,0,606,6DF,0,584,796,0,602,390,0,585,195,0,1,2,3,4,5,6,0,0,0,0,0,0,40,145,0,85,4584,1,1,1,1,1,1,163,286,368,257,415,165,2,2,1,3,3,0,80,64,50,46,54,81,7,7,7,7,7,7,9060,27-04-2021 14:42:44
+A0> Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  40 %  50 %  41 %  47 %  87 %
+Peak:        99 %  99 %  99 %  99 % 100 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+A0 A4 3E7.0000001DA0 27-04-2021 15:32:41
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     85 %  44 %  49 %  42 %  60 %  81 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 27-04-2021 18:32:42
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 27-04-2021 18:32:42
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 27-04-2021 18:32:42
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 27-04-2021 18:32:42
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     73 %  51 %  43 %  55 %  46 %  73 %
+Peak:        99 %  99 %  98 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 27-04-2021 21:32:43
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 27-04-2021 21:32:43
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 27-04-2021 21:32:43
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 27-04-2021 21:32:43
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     81 %  60 %  42 %  51 %  46 %  84 %
+Peak:        99 %  99 %  99 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 3
+A0 A2 3E7.0000001DA0 28-04-2021 00:32:44
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 00:32:44
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 28-04-2021 00:32:44
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 28-04-2021 00:32:44
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     80 %  64 %  44 %  59 %  40 %  84 %
+Peak:        99 %  98 %  98 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 28-04-2021 03:32:46
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 28-04-2021 03:32:46
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 03:32:46
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 28-04-2021 03:32:46
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  60 %  42 %  52 %  64 %  78 %
+Peak:        99 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 28-04-2021 06:32:47
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 06:32:47
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 28-04-2021 06:32:47
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1BF,99,595,445,0,606,72D,0,584,7A7,0,602,3B6,0,585,1A1,0,1,2,3,4,5,6,0,0,0,0,0,0,36,145,0,86,4604,1,1,1,1,1,1,176,295,385,264,442,166,0,3,4,3,3,0,77,56,56,45,64,76,7,7,7,7,7,7,9060,28-04-2021 09:32:45
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     77 %  56 %  56 %  45 %  64 %  76 %
+Peak:        99 %  98 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 28-04-2021 09:32:48
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 09:32:48
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 28-04-2021 09:32:48
+rfs
+Unknown Command! (H for help)
+A0> drs
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1B9,99,595,43B,0,606,723,0,584,7A7,0,602,3B1,0,585,1A0,0,1,2,3,4,5,6,0,0,0,0,0,0,36,145,0,86,4607,1,1,1,1,1,1,173,294,382,262,437,166,2,2,4,3,4,4,73,59,46,51,62,82,7,7,7,7,7,7,9060,28-04-2021 09:51:31
+A0> ?
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> ?
+AS                Antenna switching sequence
+AT {#}            Antenna scanning time #msec
+BA {1|0}          Buffer Active ON|OFF
+BC                Buffer Count
+BD                Buffer Download
+BE                Buffer Erase
+DA {#}            Low current alarm threshold #mA
+DG {#}            Current measurement gain #%
+DR {D#|S}         Status report DELAY|SEND
+DS {1|0}          Store test tag code ON|OFF
+DT {1|0|D#|S}     Test tag ON|OFF|DELAY|SEND
+LT {1|0}          Send tag codes to COM1 ON|OFF
+MT                Manual tuning mode
+NG {#}            Noise measurement gain #%
+NT {#}            High noise alarm threshold #%
+NR {D#|S}         Noise report DELAY|SEND
+RA {1|0|R}        Reader Active ON|OFF|RESET
+RB {1|0}          Reader Buzzer Active ON|OFF
+RI {XX}           Reader Hex ID
+RP                Reset parameters to default
+RU {1|0|D#}       Unique mode ON|OFF|DELAY
+SM {#}            Antenna sleep mode delay #msec
+TC                Display current date and time
+TE {1|0}          Test Reader Efficiency ON|OFF
+TD {DD-MM-YYYY}   Reader date
+TH {HH:MM:SS}     Reader time
+TL {ant}{lev}     Test tag level
+H or ?            Display list of all commands
+A0> tc
+28-04-2021 10:01:11
+A0> th09:35:00
+A0> tc
+28-04-2021 09:35:04
+A0> Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  45 %  35 %  35 %  50 %  84 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 28-04-2021 12:05:53
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 12:05:53
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 28-04-2021 12:05:53
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 28-04-2021 12:05:53
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  51 %  56 %  43 %  40 %  82 %
+Peak:       100 %  99 %  99 % 100 %  99 % 100 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 4
+PROBLEM: Test Tag Failed
+A0 A4 3E7.0000001DA0 28-04-2021 15:05:54
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  58 %  43 %  34 %  38 %  80 %
+Peak:        99 %  99 %  99 %  99 % 100 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 18:05:55
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 28-04-2021 18:05:55
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 28-04-2021 18:05:55
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     72 %  45 %  37 %  43 %  46 %  85 %
+Peak:        99 %  98 % 100 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 28-04-2021 21:05:56
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 5
+A0 A4 3E7.0000001DA0 28-04-2021 21:05:56
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 28-04-2021 21:05:56
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     77 %  56 %  36 %  36 %  39 %  82 %
+Peak:        98 %  99 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 00:05:57
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 29-04-2021 00:05:57
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 00:05:57
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  50 %  45 %  40 %  51 %  74 %
+Peak:        99 %  98 %  99 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 29-04-2021 03:05:58
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 03:05:58
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 29-04-2021 03:05:58
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 03:05:58
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  52 %  45 %  57 %  39 %  77 %
+Peak:        99 %  98 %  99 %  98 %  98 %  98 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 29-04-2021 06:05:59
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 06:05:59
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 29-04-2021 06:05:59
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 06:05:59
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+$MUX1230,2,1,A0,2,0030,1,1,1,1,180,1440,180,110,1000,98,99,100,0,612,1B3,99,595,43B,0,606,71F,0,584,7A2,0,602,3AF,0,585,19E,0,1,2,3,4,5,6,0,0,0,0,0,0,36,145,0,86,4629,1,1,1,1,1,1,167,292,378,262,435,161,3,2,3,4,2,2,79,54,47,40,39,81,7,7,7,7,7,7,TAG,9060,29-04-2021 09:05:57
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  54 %  47 %  40 %  39 %  81 %
+Peak:        98 %  98 %  98 %  98 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 09:05:59
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 09:06:00
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 29-04-2021 09:06:00
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     76 %  40 %  22 %  40 %  25 %  82 %
+Peak:        99 %  99 %  99 %  99 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 29-04-2021 12:06:01
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 12:06:01
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+MESSAGE: Test Tag Fired on antenna 6
+A0 A5 3E7.0000001DA0 29-04-2021 12:06:01
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  56 %  55 %  37 %  50 %  78 %
+Peak:       100 %  99 %  99 % 100 %  99 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 15:06:02
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     65 %  46 %  36 %  31 %  28 %  76 %
+Peak:        99 %  99 %  99 %  99 %  99 % 100 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 18:06:03
+MESSAGE: Test aborted due to system activity
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 18:06:03
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     79 %  51 %  52 %  45 %  57 %  76 %
+Peak:        99 %  99 %  99 %  99 %  99 % 100 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 29-04-2021 21:06:04
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 29-04-2021 21:06:04
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 29-04-2021 21:06:04
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 29-04-2021 21:06:04
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     73 %  56 %  46 %  43 %  54 %  80 %
+Peak:        99 %  98 %  99 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 30-04-2021 00:06:05
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 30-04-2021 00:06:05
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 30-04-2021 00:06:05
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 30-04-2021 00:06:05
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     71 %  51 %  56 %  46 %  52 %  81 %
+Peak:        98 %  98 %  98 %  98 %  98 %  99 %
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 30-04-2021 03:06:06
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 30-04-2021 03:06:06
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 30-04-2021 03:06:06
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
+MESSAGE: Test aborted due to system activity
+Noise report for Reader ID#A0
+Antenna:      1     2     3     4     5     6
+Average:     66 %  51 %  49 %  40 %  48 %  74 %
+Peak:        99 %  98 %  98 %  98 %  99 %  98 %
+MESSAGE: Test Tag Fired on antenna 2
+MESSAGE: Test Tag Found
+A0 A2 3E7.0000001DA0 30-04-2021 06:06:07
+MESSAGE: Test Tag Fired on antenna 3
+MESSAGE: Test Tag Found
+A0 A3 3E7.0000001DA0 30-04-2021 06:06:07
+MESSAGE: Test Tag Fired on antenna 4
+MESSAGE: Test Tag Found
+A0 A4 3E7.0000001DA0 30-04-2021 06:06:07
+MESSAGE: Test Tag Fired on antenna 5
+MESSAGE: Test Tag Found
+A0 A5 3E7.0000001DA0 30-04-2021 06:06:07
+MESSAGE: Test Tag Fired on antenna 6
+PROBLEM: Test Tag Failed
+MESSAGE: Test Tag Fired on antenna 1
+PROBLEM: Test Tag Failed
